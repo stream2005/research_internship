@@ -1,0 +1,3 @@
+[submodule "task1_TinyTensor"]
+	path = task1_TinyTensor
+	url = https://github.com/stream2005/TinyTensor.git

@@ -12,8 +12,8 @@ This repository records my research internship progress, including weekly report
 
 ## Task 1 (TinyTensor)
 
-![alt](.\images\task1.png)
+![alt](./images/task1.png)
 
 ## Task 2
 
-![alt](.\images\task2.png)
+![alt](./images/task2.png)

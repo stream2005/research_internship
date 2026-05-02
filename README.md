@@ -5,7 +5,15 @@ This repository records my research internship progress, including weekly report
 ## Structure
 
 - `weekly_reports/`: weekly progress reports
-- `task1_nn_framework/`: tiny neural network framework implementation
+- `task1_TinyTensor/`: tiny neural network framework implementation
 - `task2_agnews_classification/`: AG News text classification task
 - `notes/`: study notes
 - `references/`: papers, links, and related materials
+
+## Task 1 (TinyTensor)
+
+![alt](.\images\task1.png)
+
+## Task 2
+
+![alt](.\images\task2.png)
